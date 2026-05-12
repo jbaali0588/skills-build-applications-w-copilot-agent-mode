@@ -3,8 +3,7 @@
 # Virtual Environment
 venv
 
-# octofit tracker app
-# octfit-tracker
+octofit-tracker
 
 # React node_modules
 node_modules
